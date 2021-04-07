@@ -1,0 +1,56 @@
+.card-box {
+    background-color: #36404a;
+    background-clip: border-box;
+    border: 1px solid #36404a;
+    padding: 1.5rem;
+    margin-bottom: 24px;
+    border-radius: .25rem;
+}
+
+.border {
+    border: 1px solid #495561 !important;
+}
+
+.border:hover {
+    background-color: #495561;
+    cursor: pointer;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    margin: 10px 0;
+    font-weight: 500;
+    font-family: Roboto,sans-serif;
+    color: #ced4da;
+}
+
+.h3, h3 {
+    font-size: 1.5rem;
+}
+
+.font-weight-medium {
+    font-weight: 500;
+}
+.font-13 {
+    font-size: 13px!important;
+}
+
+.text-uppercase {
+    text-transform: uppercase!important;
+}
+.mb-1, .my-1 {
+    margin-bottom: .375rem!important;
+}
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    color: #a8b5c3;
+}
+
+.font-24 {
+    font-size: 24px!important;
+    color: #e8f3f3;
+}
+
+.btn-add {
+    margin-bottom: 15px;
+}

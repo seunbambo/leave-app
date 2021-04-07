@@ -1,0 +1,10 @@
+export const AUTHENTICATE_USER = 'AUTHENTICATE_USER';
+export const SET_ERROR = 'SET_ERROR';
+export const SHOW_ADD_MODAL = 'SHOW_ADD_MODAL';
+export const SHOW_EDIT_MODAL = 'SHOW_EDIT_MODAL';
+export const GET_USER_LEAVES = 'GET_USER_LEAVES';
+export const GET_ALL_LEAVES = 'GET_ALL_LEAVES';
+export const UPDATE_TABLE_ENTRIES = 'UPDATE_TABLE_ENTRIES';
+export const SELECTED_LEAVE = 'SELECTED_LEAVE';
+export const GET_USER = 'GET_USER';
+export const LOGOUT = 'LOGOUT';
